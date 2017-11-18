@@ -4,6 +4,9 @@
     // Spacing between the gutter and the text
     "margin": 4,
 
+		"font_size": 9,
+		"translate_tabs_to_spaces": true,
+
     // The number of spaces a tab is considered equal to
     "tab_size": 2,
 
@@ -35,10 +38,17 @@
     // Word list to use for spell checking
     "dictionary": "Packages/Language - English/en_UK.dic",
 
+		"added_words":
+		[
+			"evolvability",
+			"normalised",
+			"indices",
+			"normalisation",
+			"Normalising",
+			"Hadoop",
+			"Customised"
+		],
+
     // Display file encoding in the status bar
     "show_encoding": true,
-
-		"font_size": 9,
-		"tab_size": 2,
-		"translate_tabs_to_spaces": true
 }
